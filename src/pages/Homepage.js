@@ -332,7 +332,7 @@ function Homepage() {
             </div>
           </div>
         </div>
-        <div class="lg:hidden justify-center pt-1 w-full flex gap-6">
+        <div class="lg:hidden justify-center w-full flex gap-6">
           <img src={facebook} alt={facebook} />
           <img src={twitter} alt={twitter} />
           <img src={youtube} alt={youtube} />

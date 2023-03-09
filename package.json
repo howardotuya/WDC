@@ -1,5 +1,6 @@
 {
   "name": "wdc",
+  "homepage": "https://jaulf.github.io/wdc/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
