@@ -333,9 +333,9 @@ function Homepage() {
           </div>
         </div>
         <div class="lg:hidden justify-center w-full flex gap-6">
-          <img src={facebook} alt={facebook} />
-          <img src={twitter} alt={twitter} />
-          <img src={youtube} alt={youtube} />
+          <img class="w-6 h-6" src={facebook} alt={facebook} />
+          <img class="w-6 h-6" src={twitter} alt={twitter} />
+          <img class="w-6 h-6" src={youtube} alt={youtube} />
         </div>
       </footer>
     </div>
