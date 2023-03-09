@@ -8,9 +8,9 @@ import test3 from "../Assets/test3.png";
 import Ellipse6 from "../Assets/Ellipse6.png";
 import Ellipse7 from "../Assets/Ellipse7.png";
 import Ellipse8 from "../Assets/Ellipse8.png";
-import facebook from "../Assets/facebook.png";
-import twitter from "../Assets/twitter.png";
-import youtube from "../Assets/youtube.png";
+import facebook from "../Assets/facebook.svg";
+import twitter from "../Assets/twitter.svg";
+import youtube from "../Assets/youtube.svg";
 
 function Homepage() {
   return (
