@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WDC/static/css/main.71704383.css",
+    "main.css": "/WDC/static/css/main.a1d7cc31.css",
     "main.js": "/WDC/static/js/main.d9bcc67e.js",
     "static/js/787.f0c2e32f.chunk.js": "/WDC/static/js/787.f0c2e32f.chunk.js",
     "static/media/background-img.png": "/WDC/static/media/background-img.bda7cc6dbf075e095267.png",
@@ -93,12 +93,12 @@
     "static/media/youtube.svg": "/WDC/static/media/youtube.fe5397bff415b2182bb6fc5928f41338.svg",
     "static/media/facebook.svg": "/WDC/static/media/facebook.d2113b13c94ab3c7fcfdd87da1c318dd.svg",
     "index.html": "/WDC/index.html",
-    "main.71704383.css.map": "/WDC/static/css/main.71704383.css.map",
+    "main.a1d7cc31.css.map": "/WDC/static/css/main.a1d7cc31.css.map",
     "main.d9bcc67e.js.map": "/WDC/static/js/main.d9bcc67e.js.map",
     "787.f0c2e32f.chunk.js.map": "/WDC/static/js/787.f0c2e32f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71704383.css",
+    "static/css/main.a1d7cc31.css",
     "static/js/main.d9bcc67e.js"
   ]
 }
