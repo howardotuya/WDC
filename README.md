@@ -8,4 +8,4 @@ This project was Researched and Designed by \*\*\*.
 
 ### Developer
 
-THis Project was Developed by Yours Truly.
+This Project was Developed by Yours Truly.
